@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+.post{
+  display: grid;
+  grid-template-columns: repeat(2,auto);
+  margin: 3rem 1rem;
+}
+.post p {
+  font-family: 'Montserrat Alternates', sans-serif;
+  background-color: #d8e2dc;
+  line-height: 1.5;
+  text-align: justify;
+  padding: 1rem;
+  border-radius: 20px;
+  width: 60rem;
+  float: right;
+
+
+}
+.post h2 {
+  font-family: 'Pacifico', cursive;
+  background-color: #d8e2dc;
+  text-align: center;
+  padding: 1rem;
+  border-radius: 20px;
+}
+img{
+  width: 10rem;
+  height: 10rem;
+  border-radius: 100%;
+}
