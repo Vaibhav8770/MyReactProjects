@@ -1,0 +1,45 @@
+.cardImg{
+    width: 200px;
+    height: 200px;
+    border-radius:20px ;
+}
+.cards{
+    padding: 3rem 5rem 3rem 5rem;
+    margin: 10px 1rem 5px 1rem;
+    display: grid;
+    /* width: 75rem; */
+    grid-template-columns: repeat(3,auto);
+ 
+}
+.card{
+    width: 14rem;
+    margin: 0.8rem 5px;
+    background-image: linear-gradient(to right,#f8edeb,#ece4db);
+    text-align: center;
+    padding: 1rem;
+    transition: transform 3s;
+    border-radius: 20px;
+}
+.card:hover {
+        position: relative;
+        transform: scale(1.1);
+        border: #e9ecef solid 5px;
+        border: none;
+}
+a{
+    text-decoration: none;
+}
+button {
+    
+    text-align: center;
+    padding: 4pxpx;
+    font-weight: bolder;
+    color: #364cad;
+    background-color: #fff;
+    border-radius: 15%;
+}
+
+button:hover {
+    color: #fff;
+    background-color: #f8edeb;
+}
