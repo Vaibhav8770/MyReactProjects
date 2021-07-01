@@ -1,0 +1,107 @@
+ 
+
+                {/* Card 1 */}
+            <Card elevation={0} className={classes.mainCard}>
+                <CardActionArea className={classes.subCard}>
+                    <CardMedia
+                        className={classes.cardImage}
+                        component="img"
+                        alt="Loading........."
+                        image={perfume}
+                        title="Scent Shot Collections"
+                    />
+                    <CardContent>
+                        <Divider />
+                        <Typography variant="h4" component="h1" style={{ color: textColor }}>Perfumes.</Typography>
+                        {/* <Typography variant="h4" component="h1" style={{ color: bgColor1 }}>Shot</Typography> */}
+                        <Divider />
+                        <Typography variant="p" component="h2" style={{ color: textColor }}>
+                            Discover the Magical World
+                        </Typography>
+                        <Typography variant="p" component="h2" style={{ color: textColor }}>
+                            of Perfumes
+                        <Button className={classes.getDetails} style={{ color: textColor }}>Get Details..</Button>
+                        </Typography>
+                    </CardContent>
+                </CardActionArea>
+            </Card>
+
+            {/* Card 2 */}
+            <Card elevation={0} className={classes.mainCard}>
+                <CardActionArea className={classes.subCard}>
+                    <CardMedia
+                        className={classes.cardImage}
+                        component="img"
+                        alt="Loading........."
+                        image={scentshot}
+                        title="Scent Shot Collections"
+                    />
+                    <CardContent>
+                        <Divider />
+                        <Typography variant="h4" component="h1" style={{ color: bgColor1 }}>Scent Shot</Typography>
+                        {/* <Typography variant="h4" component="h1" style={{ color: bgColor1 }}>Shot</Typography> */}
+                        <Divider />
+                        <Typography variant="p" component="h2" style={{ color: bgColor1 }}>
+                            Discover the Magical World
+                        </Typography>
+                        <Typography variant="p" component="h2" style={{ color: bgColor1 }}>
+                            of Perfumes
+                        <Button className={classes.getDetails} style={{ color: bgColor1 }}>Get Details..</Button>
+                        </Typography>
+                    </CardContent>
+                </CardActionArea>
+            </Card>
+
+
+            {/* Card 3 */}
+
+            <Card elevation={0} className={classes.mainCard}>
+                <CardActionArea className={classes.subCard}>
+                    <CardMedia
+                        className={classes.cardImage}
+                        component="img"
+                        alt="Loading........."
+                        image={deodorant}
+                        title="Scent Shot Collections"
+                    />
+                    <CardContent>
+                        <Divider />
+                        <Typography variant="h4" component="h1" style={{ color: bgColor1 }}>Deodorant</Typography>
+                        {/* <Typography variant="h4" component="h1" style={{ color: bgColor1 }}>Shot</Typography> */}
+                        <Divider />
+                        <Typography variant="p" component="h2" style={{ color: bgColor1 }}>
+                            Discover the Magical World
+                                </Typography>
+                        <Typography variant="p" component="h2" style={{ color: bgColor1 }}>
+                            of Perfumes
+                                <Button className={classes.getDetails} style={{ color: bgColor1 }}>Get Details..</Button>
+                        </Typography>
+                    </CardContent>
+                </CardActionArea>
+            </Card>
+
+            {/* Card 4 */}
+            <Card elevation={0} className={classes.mainCard}>
+                <CardActionArea className={classes.subCard}>
+                    <CardMedia
+                        className={classes.cardImage}
+                        component="img"
+                        alt="Loading........."
+                        image={bodymist}
+                        title="Scent Shot Collections"
+                    />
+                    <CardContent>
+                        <Divider />
+                        <Typography variant="h4" component="h1" style={{ color: bgColor1 }}>Body Mist</Typography>
+                        {/* <Typography variant="h4" component="h1" style={{ color: bgColor1 }}>Shot</Typography> */}
+                        <Divider />
+                        <Typography variant="p" component="h2" style={{ color: bgColor1 }}>
+                            Discover the Magical World
+                                    </Typography>
+                        <Typography variant="p" component="h2" style={{ color: bgColor1 }}>
+                            of Perfumes
+                                    <Button className={classes.getDetails} style={{ color: bgColor1 }}>Get Details..</Button>
+                        </Typography>
+                    </CardContent>
+                </CardActionArea>
+            </Card>

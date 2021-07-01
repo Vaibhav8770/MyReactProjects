@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Cambo&family=Euphoria+Script&family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+
+/* font-family: 'Cambo', serif;
+font-family: 'Euphoria Script', cursive;
+font-family: 'Montserrat', sans-serif; 
+font-family: 'Ubuntu', sans-serif;   */
+
+body {
+	margin: 0;
+	/* background-image: linear-gradient(to right, #ffcbf2, #f3c4fb, #ecbcfd, #e5b3fe, #e2afff, #deaaff, #d8bbff, #d0d1ff); */
+	background-color: #000;
+	/* background-image: url("https://media3.giphy.com/media/3ov9k1173PdfJWRsoE/200w.webp?cid=ecf05e47znrjv7mwskefl3rtredhydukswd4th8lqa0ggg6f&rid=200w.webp&ct=g"); */
+	/* background-image: linear-gradient(to bottom right, #0a0908, #02040f); */
+	}
+
+code {
+	font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}

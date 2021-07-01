@@ -1,0 +1,54 @@
+{
+    "MainBrands": [
+        {
+            "id": 1,
+            "title": "Chris Adams",
+            "image": "./logos/chris_adams.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Colour Me",
+            "image": "./logos/color_me.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Lomani",
+            "image": "./logos/lomani.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Maryaj",
+            "image": "./logos/maryaj.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Louise Cardin",
+            "image": "./logos/louise_cardin.jpg"
+        },
+        {
+            "id": 6,
+            "title": "MPF",
+            "image": "./logos/mpf.jpg"
+        },
+        {
+            "id": 7,
+            "title": "Mural De Ruitz",
+            "image": "./logos/mural_de_ruitz.jpg"
+        },
+        {
+            "id": 8,
+            "title": "New Nb",
+            "image": "./logos/new_nb.jpg"
+        },
+        {
+            "id": 9,
+            "title": "Perfumer's Choice",
+            "image": "./logos/perfumer's_choice.jpg"
+        },
+        {
+        "id": 10,
+            "title": "Perfumer's Club",
+            "image": "./logos/perfumer's_club.png"
+        }
+    ]
+}
